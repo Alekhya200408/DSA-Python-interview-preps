@@ -1,0 +1,261 @@
+Goal: Build a rock-solid foundation in Python and understand the basics of DSA.
+
+Total Time: Around 4 hours
+
+🟢 Session 1 (60 minutes)
+Topic: Python Fundamentals
+Study
+
+Learn these concepts:
+
+What is Python?
+Features of Python
+Variables
+Data Types
+Input & Output
+Type Casting
+Comments
+Keywords
+Operators
+Arithmetic
+Comparison
+Logical
+Assignment
+Membership
+Identity
+Practice Programs
+
+Write these yourself (don't copy-paste):
+
+Hello World
+Print your name, age, college
+Input name and age
+Swap two numbers
+Area of Circle
+Area of Rectangle
+Celsius → Fahrenheit
+Fahrenheit → Celsius
+Calculate Simple Interest
+Calculate Percentage of 5 subjects
+📒 Notebook (Write These)
+Definition
+
+What is Python?
+
+What is Variable?
+
+What are Data Types?
+
+What is Type Casting?
+
+Difference between int and float.
+
+Difference between = and ==.
+
+Difference between == and is.
+
+Syntax
+x = 10
+
+name = input()
+
+age = int(input())
+
+print(name)
+Interview Questions
+
+Answer these in your own words.
+
+Why Python?
+Features of Python?
+What are Python data types?
+Difference between list and tuple? (We'll learn lists tomorrow, but start thinking about it.)
+What is type casting?
+🟢 Session 2 (75 minutes)
+DSA
+Learn
+
+What is Data Structure?
+
+What is Algorithm?
+
+Difference between them.
+
+Why DSA?
+
+Time Complexity
+
+Space Complexity
+
+Big-O notation
+
+Understand
+
+O(1)
+
+O(log n)
+
+O(n)
+
+O(n²)
+
+O(n³)
+
+You don't need to memorize formulas—understand what they mean.
+
+Arrays
+
+Study
+
+What is an array?
+Indexing
+Traversing
+Advantages
+Disadvantages
+Coding
+
+Implement:
+
+arr = [10,20,30,40,50]
+
+Now write programs for:
+
+✔ Print all elements
+
+✔ Find maximum
+
+✔ Find minimum
+
+✔ Sum
+
+✔ Average
+
+✔ Count even numbers
+
+✔ Count odd numbers
+
+✔ Reverse array
+
+✔ Second largest element
+
+Try to solve them on your own first.
+
+📒 Notebook
+
+Write
+
+Definition of Array
+
+Advantages
+
+Disadvantages
+
+Complexities
+
+Access → O(1)
+
+Search → O(n)
+
+Insertion → O(n)
+
+Deletion → O(n)
+🟢 Session 3 (60 minutes)
+Python Coding Practice
+
+Solve these without looking at solutions:
+
+Even or Odd
+Positive Negative Zero
+Largest of Three Numbers
+Leap Year
+Prime Number
+Palindrome Number
+Armstrong Number
+Factorial
+Fibonacci
+Multiplication Table
+🟢 Session 4 (45–60 minutes)
+LeetCode
+
+Create an account if you haven't already.
+
+Today solve only 2 problems.
+
+Problem 1
+
+Two Sum
+
+Don't worry if you can't solve it.
+
+Spend 20–30 minutes thinking.
+
+If stuck:
+
+Read the hints.
+
+Still stuck?
+
+Watch one explanation.
+
+Then close it.
+
+Write it again yourself.
+
+Problem 2
+
+Contains Duplicate
+
+Same process.
+
+The goal is to understand the idea, not to finish quickly.
+
+🗣 English Practice (15–20 minutes)
+
+Stand in front of a mirror or record yourself.
+
+Answer these questions aloud:
+
+Q1
+
+Tell me about yourself.
+
+Q2
+
+What is Python?
+
+Q3
+
+Why do you like Python?
+
+Q4
+
+Explain what an array is.
+
+Don't worry about perfect grammar. Focus on speaking clearly and confidently.
+
+📚 Resources
+Python
+FreeCodeCamp Python (full course) or
+CodeWithHarry Python playlist (for detailed learning)
+
+Choose one and stick with it.
+
+DSA
+Striver A2Z DSA Sheet
+Kunal Kushwaha DSA playlist (excellent for understanding)
+
+Again, choose one main resource to avoid jumping around.
+
+📒 End-of-Day Checklist
+
+Before you finish, ask yourself:
+
+ Did I understand variables and data types?
+ Did I write the Python programs myself?
+ Did I understand what Big-O notation means?
+ Can I explain what an array is?
+ Did I solve at least one LeetCode problem by thinking first?
+ Did I write my notebook notes?
+ Did I speak English for at least 15 minutes?
+
+If you can check 6 out of 7, that's a successful day.

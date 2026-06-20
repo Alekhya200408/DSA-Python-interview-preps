@@ -1,0 +1,100 @@
+# Day 2 – Python + DSA
+
+## ⏰ Total Time: ~4 Hours
+
+### 1. Python (1 Hour)
+
+#### Learn
+
+* if, elif, else
+* Nested if
+* for loop
+* while loop
+* break
+* continue
+* pass
+* range()
+
+#### Practice Programs
+
+1. Find the largest of three numbers
+2. Check if a year is a leap year
+3. Print numbers from 1 to N
+4. Print the multiplication table of a number
+5. Sum of first N natural numbers
+6. Count digits in a number
+7. Reverse a number
+8. Check if a number is a palindrome
+9. Print all even numbers from 1 to N
+10. Print a star pattern:
+
+```
+*
+**
+***
+****
+*****
+```
+
+### Notebook
+
+* if-else definition
+* Difference between for and while loop
+* break vs continue vs pass
+* Syntax of loops
+
+---
+
+### 2. DSA (1 Hour 15 Minutes)
+
+#### Learn
+
+* Linear Search
+* Binary Search
+* When to use Linear Search
+* When to use Binary Search
+* Time Complexity:
+
+  * Linear Search → O(n)
+  * Binary Search → O(log n)
+
+#### Practice
+
+1. Linear Search
+2. Binary Search
+3. Count occurrences of an element
+4. Check if an element exists in an array
+
+### Notebook
+
+* Linear Search definition
+* Binary Search definition
+* Difference between Linear and Binary Search
+* Time complexities
+
+---
+
+### 3. LeetCode (45 Minutes)
+
+1. Binary Search (Easy)
+2. Find Numbers with Even Number of Digits (Easy)
+
+Try for 20–30 minutes before looking at hints.
+
+---
+
+### 4. English (20 Minutes)
+
+Speak aloud and record yourself.
+
+Questions:
+
+1. Tell me about yourself.
+2. Explain Python in simple words.
+3. What is the difference between a list and a tuple?
+4. What is an array?
+5. Explain Linear Search.
+6. Explain Binary Search.
+7. Which search algorithm is faster and why?
+
+Don't memorize. Explain as if you're talking to an interviewer.
