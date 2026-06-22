@@ -34,7 +34,7 @@ even_odd(5)'''
 print(factorial(5))'''
 
 # Function to check prime number
-def Prime(x):
+'''def Prime(x):
     if x<=0:
         print("Not Prime")
         return
@@ -48,4 +48,34 @@ def Prime(x):
         else:
             print("Not Prime")
 
-Prime(14)
+Prime(14)'''
+
+# Function to count vowels in a string
+'''def vowels():
+    x=input("Enter the Word: ")
+    count=0
+    for i in x.lower():
+        if i in "aeiou":
+            count+=1 
+    print(count)
+
+vowels()'''
+
+#  Function to reverse a string
+
+'''def reverse():
+    x=input("Enter the word: ")
+    print(x[::-1])
+
+reverse()'''
+
+# Function to find the largest element in a list
+'''def largest():
+    x=[10,20,30,40,50,22,70,34,22,99]
+    highest=x[0]
+    for i in x:
+        if i>highest:
+            highest=i
+    print(highest)
+
+largest()'''
