@@ -1,0 +1,151 @@
+# Day 3 – Python + DSA + LeetCode + English
+
+## ⏰ Total Time: 4 Hours
+
+---
+
+# 1. Python (1 Hour)
+
+## Topic
+
+* Functions
+* Parameters
+* Arguments
+* Return Statement
+* Local vs Global Variables
+* Scope
+
+### Practice Programs
+
+1. Function to add two numbers
+2. Function to find the maximum of two numbers
+3. Function to check even or odd
+4. Function to calculate factorial
+5. Function to check prime number
+6. Function to count vowels in a string
+7. Function to reverse a string
+8. Function to find the largest element in a list
+
+### Notebook
+
+Definitions:
+
+* Function
+* Parameter
+* Argument
+* Return
+* Local Variable
+* Global Variable
+
+Interview Questions:
+
+1. What is a function?
+2. Why do we use functions?
+3. Difference between parameter and argument?
+4. Difference between return and print?
+5. Local vs Global variable?
+
+---
+
+# 2. DSA (1 Hour 15 Minutes)
+
+## Topic
+
+Sorting
+
+Learn:
+
+* Why Sorting?
+* Bubble Sort
+* Selection Sort
+
+Understand:
+
+* Bubble Sort Algorithm
+* Selection Sort Algorithm
+
+Time Complexity:
+
+* Bubble Sort → O(n²)
+* Selection Sort → O(n²)
+
+### Practice
+
+1. Bubble Sort
+2. Selection Sort
+3. Sort ascending
+4. Sort descending
+
+### Notebook
+
+Definitions:
+
+* Sorting
+* Bubble Sort
+* Selection Sort
+
+Complexities:
+
+* Best Case
+* Worst Case
+* Average Case
+
+Advantages & Disadvantages of Bubble Sort
+
+Advantages & Disadvantages of Selection Sort
+
+Interview Questions:
+
+1. What is sorting?
+2. Difference between Bubble and Selection Sort?
+3. Which is better?
+4. Why is Bubble Sort called Bubble Sort?
+
+---
+
+# 3. LeetCode (45 Minutes)
+
+Solve:
+
+1. Merge Sorted Array (Easy)
+2. Sort Array By Parity (Easy)
+
+Goal:
+
+* Try yourself first for 20–30 minutes.
+* If stuck, take hints.
+* Then understand and code again without looking.
+
+---
+
+# 4. English (20 Minutes)
+
+Speak aloud and record yourself.
+
+Questions:
+
+1. Tell me about yourself.
+2. Explain what a function is.
+3. Why do we use functions?
+4. What is Bubble Sort?
+5. Explain Bubble Sort step by step.
+6. Which sorting algorithm have you learned?
+7. What is the time complexity of Bubble Sort?
+8. Which do you prefer: Python or Java? Why?
+
+Don't memorize. Speak naturally for 1–2 minutes per question.
+
+---
+
+# 5. Revision (20 Minutes)
+
+Revise:
+
+* Variables
+* Data Types
+* Operators
+* if-else
+* Loops
+* Arrays
+* Linear Search
+* Binary Search
