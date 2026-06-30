@@ -32,3 +32,14 @@ word=sentence.split()
 print("Total Words",len(word))'''
 # USING SPLIT() FUNCTION
 
+# Find the frequency of a character
+'''name="alekhya"
+
+character=input("Enter the character:")
+count=0
+for ch in name.lower():
+    if ch==character:
+        count+=1
+print(count)'''
+
+# 
