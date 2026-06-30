@@ -1,0 +1,157 @@
+# Day 4 – Python + DSA + LeetCode + English
+
+## ⏰ Total Time: ~4 Hours
+
+---
+
+# 1. Python (1 Hour)
+
+## Topic
+
+### Strings
+
+* What is a String?
+* String Indexing
+* String Slicing
+* String Methods
+
+  * upper()
+  * lower()
+  * strip()
+  * replace()
+  * split()
+  * join()
+  * find()
+  * count()
+* String Immutability
+
+### Practice Programs
+
+1. Reverse a string
+2. Check palindrome string
+3. Count vowels and consonants
+4. Count words in a sentence
+5. Find the frequency of a character
+6. Remove spaces from a string
+7. Convert lowercase to uppercase without using `upper()` (using loops)
+8. Find the longest word in a sentence
+
+### Notebook
+
+Definitions:
+
+* String
+* Indexing
+* Slicing
+* Mutable vs Immutable
+
+Interview Questions:
+
+1. What is a string?
+2. Why are strings immutable in Python?
+3. Difference between list and string?
+4. Explain string slicing.
+5. Name five commonly used string methods.
+
+---
+
+# 2. DSA (1 Hour 15 Minutes)
+
+## Topic
+
+### Hashing (Dictionary)
+
+Learn:
+
+* What is Hashing?
+* Why use Hashing?
+* Dictionary in Python
+* Time Complexity of Dictionary Operations
+
+Complexities:
+
+* Search → O(1) Average
+* Insert → O(1) Average
+* Delete → O(1) Average
+
+### Practice
+
+1. Count frequency of elements in an array
+2. Count frequency of characters in a string
+3. Find the first non-repeating character
+4. Check if two strings are anagrams (using dictionary)
+
+### Notebook
+
+Definitions:
+
+* Hashing
+* Hash Table
+* Dictionary
+
+Interview Questions:
+
+1. What is hashing?
+2. Why is hashing faster than linear search?
+3. When should you use a dictionary?
+4. What is a hash collision? (Basic idea only)
+
+---
+
+# 3. LeetCode (45 Minutes)
+
+Solve:
+
+1. Valid Anagram (Easy)
+2. Ransom Note (Easy)
+
+Process:
+
+* Think for 20–30 minutes.
+* If stuck, use hints.
+* Then write the solution again without looking.
+
+---
+
+# 4. English (20 Minutes)
+
+Speak and record yourself.
+
+Questions:
+
+1. Introduce yourself in 60–90 seconds.
+2. Explain what a string is.
+3. What is hashing?
+4. Why do we use dictionaries in Python?
+5. Explain one project you have worked on (your Habit Tracker backend).
+
+Focus on speaking clearly, not on perfect grammar.
+
+---
+
+# 5. Revision (20 Minutes)
+
+Revise:
+
+* Variables & Data Types
+* Operators
+* if-else
+* Loops
+* Functions
+* Arrays
+* Linear Search
+* Binary Search
+* Bubble Sort
+* Selection Sort
+
+---
+
+# End of Day Checklist
+
+* [ ] Learned Strings
+* [ ] Practiced 8 String programs
+* [ ] Learned Hashing & Dictionary
+* [ ] Solved 2 LeetCode problems
+* [ ] Practiced English for 20 minutes
+* [ ] Updated notebook
+* [ ] Revised previous topics
