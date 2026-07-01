@@ -42,4 +42,31 @@ for ch in name.lower():
         count+=1
 print(count)'''
 
-# 
+# Remove spaces from a string
+'''sentence=("I am Alekhya")
+wo_space=sentence.replace(" ","")
+
+print(wo_space)'''
+# USING REPLACE() FUNCTION
+
+# Convert lowercase to uppercase without using `upper()` (using loops)
+'''text=input("Enter the String:")
+
+result=""
+for ch in text:
+    if "a" <=ch<="z":
+        result+=chr(ord(ch)-32)
+    else:
+        result+=ch
+print(result)'''
+
+# Find the longest word in a sentence  
+'''text=input("Enter The Sentence:")
+
+word=text.split()
+longest=""
+for i in word:
+    if len(i)>len(longest):
+        longest=i
+print("Longest Word is:",longest)'''
+
