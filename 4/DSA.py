@@ -42,3 +42,36 @@ for ch in text:
 else:
     print("There is no non repeating character")
       
+# 4. Check if two strings are anagrams (using dictionary)
+
+str1 = input("Enter first string: ")
+str2 = input("Enter second string: ")
+
+# If lengths are different, they can't be anagrams
+if len(str1) != len(str2):
+    print("Not Anagrams")
+else:
+    freq = {}
+
+    # Count characters in first string
+    for ch in str1:
+        if ch in freq:
+            freq[ch] += 1
+        else:
+            freq[ch] = 1
+
+    # Remove characters using second string
+    for ch in str2:
+        if ch in freq:
+            freq[ch] -= 1
+        else:
+            print("Not Anagrams")
+            break
+    else:
+        # Check if all counts became 0
+        for value in freq.values():
+            if value != 0:
+                print("Not Anagrams")
+                break
+        else:
+            print("Anagrams")
